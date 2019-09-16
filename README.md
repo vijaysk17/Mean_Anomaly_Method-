@@ -1,5 +1,5 @@
 # Mean_Anomaly_Method-
-This code can transform orbital elements to state vectors and vice versa. It can also predict the state vectors of the satellite, given the starting position and time travelled.
+This code can transform orbital elements to state vectors and vice versa. It can also predict the state vectors of the satellite, given the initial state vectors and time of travel.
 
 It uses the Newton Raphson method to iteratively solve for the eccentric anomaly at another epoch.
 
