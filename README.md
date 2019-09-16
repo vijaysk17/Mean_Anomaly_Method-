@@ -3,7 +3,7 @@ This code can transform orbital elements to state vectors and vice versa. It can
 
 It uses the Newton Raphson method to iteratively solve for the eccentric anomaly at another epoch.
 
-The code is in the form of an a Python Notebook, and hence the equations used have been explained then and there.
+The code is in the form of Python Notebooks, and hence the equations used have been explained then and there.
 
 Assumptions:
 
